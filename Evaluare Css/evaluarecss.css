@@ -82,3 +82,11 @@ div {
     height: 40px;
     text-align: left;  
 }
+.eight{
+    position: fixed;
+    top: 500px;
+    left: 120px;
+    width: 508px;
+    height: 40px;
+    text-align: left;  
+}
