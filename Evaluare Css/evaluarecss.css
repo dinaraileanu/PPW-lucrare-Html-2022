@@ -1,0 +1,76 @@
+body {
+    background: url(https://lh6.googleusercontent.com/4hnotRUWNiDERtcP5--JeeMBJ9SiNoYAV7FRaqUIt2Ek_N9pRP1LSMUCbvUC060L51N3QiJ2AaeETCF7jnEDovMobX8wL5S5VgToci2b4VHWEjEYL39I8lowQXLlY6L10-yOY0BU=s800) no-repeat;
+    /*color: #fff; */
+    background-size: 100%;
+}
+
+div {
+    background-color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    position: fixed;
+    top: 50px;
+    left: 120px;
+    width: 500px;
+    height: 60px;
+    line-height: 2.5em;
+    text-align: center;
+}
+.one{
+    background-color: green;
+    color: white;
+    position: fixed;
+    top: 150px;
+    left: 120px;
+    width: 90px;
+    height: 40px;
+    line-height: 2.5em;
+    text-align: center;
+
+}
+.two {
+    background-color: green;
+    color: white;
+    position: fixed;
+    top: 150px;
+    left: 290px;
+    width: 130px;
+    height: 40px;
+    line-height: 2.5em;
+    text-align: center;
+}
+.three {
+    background-color: green;
+    color: white;
+    position: fixed;
+    top: 150px;
+    left: 490px;
+    width: 130px;
+    height: 40px;
+    line-height: 2.5em;
+    text-align: center;
+}
+.four{
+    position: fixed;
+    top: 220px;
+    left: 120px;
+    width: 500px;
+    height: 30px;
+    text-align: left;
+}
+.Five {
+    position: fixed;
+    top: 270px;
+    left: 120px;
+    width: 508px;
+    height: 90px;
+    text-align: left;
+}
+.six{
+    position: fixed;
+    top: 380px;
+    left: 120px;
+    width: 508px;
+    height: 40px;
+    text-align: left;
+}
